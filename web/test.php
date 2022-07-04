@@ -4,9 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="Author: A.N. Author,
-    Illustrator: P. Picture, Category: Books, Price: $17.99,
-    Length: 784 pages">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Hello World!</title>
     </head>
     <body>
